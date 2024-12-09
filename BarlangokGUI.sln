@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarlangokGUI", "BarlangokGUI\BarlangokGUI.csproj", "{933DAEB3-5471-47DB-A8A5-692FC4CFA794}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{933DAEB3-5471-47DB-A8A5-692FC4CFA794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{933DAEB3-5471-47DB-A8A5-692FC4CFA794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{933DAEB3-5471-47DB-A8A5-692FC4CFA794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{933DAEB3-5471-47DB-A8A5-692FC4CFA794}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E4944DB-1230-4A55-8020-76E4B51AA121}
+	EndGlobalSection
+EndGlobal
